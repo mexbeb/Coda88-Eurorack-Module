@@ -4,7 +4,7 @@ An eurorack adaption of the Coda88 sampler by Sandrolab
 ![IMG_3320](https://github.com/user-attachments/assets/b91c0414-67f6-498e-a212-05caa63e5c23)
 
 
-Differences compared to the original version:
+Differences from the original version:
 - Removed onboard amp (line out output for eurorack usage)
 - Removed release and damper pedal sounds
 - 6 instruments: Grand Piano, DX7 Electric Piano 1, Fender Rhodes, Wurlitzer, Korg M1 Organ 2, Pink Floyd Echoes Piano 
