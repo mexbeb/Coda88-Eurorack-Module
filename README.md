@@ -22,12 +22,12 @@ Demo video:
 ### Samples
 Samples are from http://pianobook.co.uk, sampled with AutoSampler on Logic.
 
--[Grand Piano]((https://www.pianobook.co.uk/packs/the-experience-fazioli-f308/))
--[DX7 Electric Piano 1]((https://www.pianobook.co.uk/packs/e-piano/))
--[Rhodes](https://www.pianobook.co.uk/packs/matts-fender-rhodes/)
--[Wurlitzer](https://www.pianobook.co.uk/packs/baltiwurli/)
--[Korg M1 Organ 2](https://www.pianobook.co.uk/profile/antonjacobsson/)
--Pink Floyd Echoes Piano -> Same as grand piano, run through Logic rotary cabinet at max speed
+- [Grand Piano]((https://www.pianobook.co.uk/packs/the-experience-fazioli-f308/))
+- [DX7 Electric Piano 1]((https://www.pianobook.co.uk/packs/e-piano/))
+- [Rhodes](https://www.pianobook.co.uk/packs/matts-fender-rhodes/)
+- [Wurlitzer](https://www.pianobook.co.uk/packs/baltiwurli/)
+- [Korg M1 Organ 2](https://www.pianobook.co.uk/profile/antonjacobsson/)
+- Pink Floyd Echoes Piano -> Same as grand piano, run through Logic rotary cabinet at max speed
 
 
 ## Overview
