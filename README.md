@@ -18,7 +18,7 @@ Demo video:
 - 6 Instruments: Grand Piano, DX7 Electric Piano 1, Fender Rhodes, Wurlitzer, Korg M1 Organ 2, Pink Floyd Echoes Piano 
 - 14 notes polyphony
 - MIDI In
-- 
+
 ### Samples
 Samples are from http://pianobook.co.uk, sampled with AutoSampler on Logic.
 
