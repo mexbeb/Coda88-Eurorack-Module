@@ -34,7 +34,7 @@ Samples are from http://pianobook.co.uk, sampled with AutoSampler on Logic.
 
 The schematics are available in the repo.
 
-After assembling everything, copy all the files from the 'Samples for SD Card' folder onto a [MicroSD card](https://www.robertsonics.com/blog/microsd-cards-for-audio-2024)
+After assembling everything, copy all the files (there should be 1604 files in total) from the 'Samples for SD Card' folder onto a [MicroSD card](https://www.robertsonics.com/blog/microsd-cards-for-audio-2024)
 
 Plug and play!
 
