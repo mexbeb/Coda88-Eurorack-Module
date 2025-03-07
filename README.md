@@ -32,11 +32,11 @@ Samples are from http://pianobook.co.uk, sampled with AutoSampler on Logic.
 
 ## Overview
 
-Schematics are available in the repo.
+The schematics are available in the repo.
 
-After you've assembled everything, copy all the files from "Samples for SD Card" onto a [MicroSD card](https://www.robertsonics.com/blog/microsd-cards-for-audio-2024)
+After assembling everything, copy all the files from the 'Samples for SD Card' folder onto a [MicroSD card](https://www.robertsonics.com/blog/microsd-cards-for-audio-2024)
 
-Plug & play!
+Plug and play!
 
 ## BOM
 - 1 x Robertsonics/Sparkfun WavTrigger board (the first version)
