@@ -11,7 +11,7 @@ Differences from the original version:
 - Added switch for instrument selection
 - Powered by eurorack 10-pin connector (no need for external DC-DC converter)
 
-Demo video: 
+Demo video on [YouTube](https://youtu.be/8wtUI7vCrVo)
 
 ### Features:
 - Stereo 44.1 KHz 16 bit CD quality audio
