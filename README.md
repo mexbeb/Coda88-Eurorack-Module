@@ -50,5 +50,5 @@ Schematics are available in the repo
 
 Thanks to:
 
-- [sandrolab]((https://github.com/sandrolab)) , for the original project
+- [sandrolab](https://github.com/sandrolab), for the original project
 - [pianobook.co.uk](pianobook.co.uk) and its users for the samples
